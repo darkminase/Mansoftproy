@@ -1,0 +1,11 @@
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Form1.resources
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.Properties.Resources.resources
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.csproj.GenerateResource.Cache
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.exe
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.pdb
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.ventanaAlumno.resources
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.ventanaDirector.resources
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.ventanaProfesor.resources
+E:\Inacap\Mantencion de Software\Proyecto con c# 09-11-2013\MenuPrincipal\MenuPrincipal\obj\x86\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
